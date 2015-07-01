@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["developer@neurodynamic.io"]
   spec.summary       = %q{Adds OpenDyslexic 3 font to a Volt project.}
   spec.description   = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/neurodynamic/volt-open_dyslexic_3"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
